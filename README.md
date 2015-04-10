@@ -20,3 +20,4 @@ http://jekyllcn.com/
 https://github.com/guoyunsky/Markdown-Chinese-Demo
 
 
+![image](http://www.sinaimg.cn/dy/slidenews/24_img/2015_15/66519_1204896_876458.jpg)
