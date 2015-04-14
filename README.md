@@ -12,6 +12,8 @@ git reset --hard origin/master
 #####提交更新
 git add .&&git commit -m 'test markdown'&&git push origin master
 
+###使用git和github进行协同开发流程
+http://livoras.com/post/28
 
 ###使用github托管静态网站
 http://jekyllcn.com/
